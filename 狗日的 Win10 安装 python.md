@@ -6,6 +6,7 @@
 # 第二部分
 去 https://pip.pypa.io/en/stable/installing/ 下 pip 包
 在命令行里安一下，安之前要设置好狗日的文件夹权限 orz
+然后记得去系统里面填一下 pip 的路径（还是 mac 好啊……）
 
 讲道理现在 python 和 pip 应该就好惹
 
