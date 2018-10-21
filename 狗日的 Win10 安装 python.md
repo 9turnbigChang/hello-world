@@ -7,3 +7,4 @@
 去 https://pip.pypa.io/en/stable/installing/ 下 pip 包
 在命令行里安一下，安之前要设置好狗日的文件夹权限 orz
 
+s
